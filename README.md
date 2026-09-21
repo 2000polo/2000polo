@@ -20,7 +20,7 @@ and systems that power them.
 </td>
 
 <td width="45%" valign="middle" align="center">
-<img src="https://raw.githubusercontent.com/2000polo/2000polo/main/assets/github-contributions.svg" alt="GitHub contribution graph" width="100%" />
+<img src="./assets/github-contributions.svg" alt="GitHub contribution graph" width="100%" />
 </td>
 </tr>
 </table>
