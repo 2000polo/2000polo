@@ -129,17 +129,7 @@ I care about the details that make a product feel finished:
 
 ---
 
-## `06` — GITHUB ACTIVITY
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=2000polo)](https://github.com/2000polo)
-
-</div>
-
----
-
-## `07` — CURRENTLY EXPLORING
+## `06` — CURRENTLY EXPLORING
 
 ```text
 → Full-Stack Architecture
@@ -152,7 +142,7 @@ I care about the details that make a product feel finished:
 
 ---
 
-## `08` — LET'S BUILD
+## `07` — LET'S BUILD
 
 <div align="center">
 
