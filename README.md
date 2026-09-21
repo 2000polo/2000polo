@@ -82,7 +82,7 @@ I've worked across **e-commerce, analytics and data-driven applications**, build
 ## `03` — CURRENTLY BUILDING
 
 <a href="https://github.com/2000polo/service-marketplace">
-  <img src="./assets/Gemini_Generated_Image_gh6ul6gh6ul6gh6u (1).png" alt="Service Marketplace" width="100%" />
+  <img src="./assets/Gemini_Generated_Image_hgbmcyhgbmcyhgbm.png" alt="Service Marketplace" width="100%" />
 </a>
 
 ### 🛠️ Service Marketplace
@@ -111,7 +111,7 @@ Built from the ground up with a focus on real-world backend architecture and bus
 <td width="50%" valign="top">
 
 <a href="https://note-app-mk51.onrender.com/">
-<img src="YOUR_PROJECT_THUMBNAIL_URL" alt="NoteApp" width="100%" />
+<img src="./assets/Gemini_Generated_Image_gh6ul6gh6ul6gh6u (1).png" alt="NoteApp" width="100%" />
 </a>
 
 ### NoteApp
