@@ -10,6 +10,7 @@
 > and systems that power them.
 
 **4+ years frontend experience**  
+<br />
 `Currently building full-stack products`
 
 <img
