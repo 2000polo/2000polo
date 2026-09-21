@@ -1,4 +1,6 @@
-<div align="center">
+<table>
+<tr>
+<td width="55%" valign="middle">
 
 # ARUN PAUL
 
@@ -6,16 +8,28 @@
 
 **React · Next.js · TypeScript · MERN**
 
-I build interfaces people enjoy using
+I build interfaces people enjoy using  
 and systems that power them.
 
 **4+ years frontend experience** · **Currently building full-stack products**
 
 <br />
 
-[Portfolio](https://portfolio-new-five-rust.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/arun-paul-dd/) · [Email](arunpaulpvt@gmail.com)
+[Portfolio](https://portfolio-new-five-rust.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/arun-paul-dd/) · [Email](mailto:arunpaulpvt@gmail.com)
 
-</div>
+</td>
+
+<td width="45%" valign="middle" align="center">
+
+<img
+  src="https://ghchart.rshah.org/2000polo"
+  alt="Arun Paul's GitHub contribution graph"
+  width="100%"
+/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -27,18 +41,18 @@ My strongest area is frontend engineering, while I'm actively expanding deeper i
 
 ### Frontend
 
-`React` `Next.js` `TypeScript` `JavaScript` `Vue`
-`Redux Toolkit` `Tailwind CSS` `Ant Design` `MUI`
+`React` `Next.js` `TypeScript` `JavaScript` `Vue`  
+`Redux Toolkit` `Tailwind CSS` `Ant Design` `MUI`  
 `React Hook Form` `GSAP` `Framer Motion`
 
 ### Backend & Full Stack
 
-`Node.js` `Express` `MongoDB` `REST APIs` `JWT`
+`Node.js` `Express` `MongoDB` `REST APIs` `JWT`  
 `Prisma` `MySQL` `Firebase`
 
 ### Engineering
 
-`API Integration` `Performance` `Accessibility`
+`API Integration` `Performance` `Accessibility`  
 `Core Web Vitals` `Reusable Components` `Git` `Figma` `Cursor`
 
 ---
@@ -79,7 +93,7 @@ Built from the ground up with a focus on real-world backend architecture and bus
 
 **Implemented**
 
-`Authentication` · `Services` · `Search & Filtering` · `Pagination`
+`Authentication` · `Services` · `Search & Filtering` · `Pagination`  
 `Provider Availability` · `Bookings` · `Cancellation` · `Reviews`
 
 **Currently working on:** frontend architecture, provider workflows and production deployment.
@@ -95,14 +109,14 @@ Built from the ground up with a focus on real-world backend architecture and bus
 <td width="50%" valign="top">
 
 <a href="https://note-app-mk51.onrender.com/">
-<img src="[YOUR_PROJECT_THUMBNAIL_URL]" alt="Noteapp" width="100%" />
+<img src="YOUR_PROJECT_THUMBNAIL_URL" alt="NoteApp" width="100%" />
 </a>
 
 ### NoteApp
 
-A short description focused on the **problem solved and interesting engineering work**.
+A full-stack note management application with authentication, protected resources and user-specific CRUD operations.
 
-`React` `Next.js` `TypeScript`
+`React` `Node.js` `Express` `MongoDB` `JWT`
 
 **[Live ↗](https://note-app-mk51.onrender.com)** · **[Code ↗](https://github.com/2000polo/note-app#-notesapp--modern-full-stack-note-management)**
 
@@ -121,7 +135,7 @@ A short description focused on the **problem solved and interesting engineering 
 04  Connect the APIs
 05  Optimize performance
 06  Ship → learn → improve
-```
+````
 
 I care about the details that make a product feel finished:
 
@@ -161,3 +175,5 @@ If you're building something interesting, let's talk.
 `Build useful things. Make them fast. Keep learning.`
 
 </div>
+
+The next improvement I'd make is the **Service Marketplace thumbnail** — something visually strong that looks good inside this README rather than a generic screenshot.
