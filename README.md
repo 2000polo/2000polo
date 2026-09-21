@@ -1,4 +1,5 @@
 <div align="start">
+<br />
 # ARUN PAUL
 
 ### Frontend & Full-Stack Developer
