@@ -21,11 +21,7 @@ and systems that power them.
 
 <td width="45%" valign="middle" align="center">
 
-<img
-  src="https://ghchart.rshah.org/0d1117/2000polo"
-  alt="Arun Paul's GitHub contribution graph"
-  width="100%"
-/>
+<img src="https://raw.githubusercontent.com/2000polo/2000polo/main/assets/github-contributions.svg" alt="GitHub contribution graph" width="100%" />
 
 </td>
 </tr>
