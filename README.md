@@ -22,7 +22,7 @@ and systems that power them.
 <td width="45%" valign="middle" align="center">
 
 <img
-  src="https://ghchart.rshah.org/2000polo"
+  src="https://ghchart.rshah.org/0d1117/2000polo"
   alt="Arun Paul's GitHub contribution graph"
   width="100%"
 />
