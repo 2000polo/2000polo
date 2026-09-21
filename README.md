@@ -1,24 +1,15 @@
 <div align="center">
-
-<br />
-
 # ARUN PAUL
 
 ### Frontend & Full-Stack Developer
 
 `React` · `Next.js` · `TypeScript` · `MERN`
 
-<br />
-
 > I build interfaces people enjoy using  
 > and systems that power them.
 
-<br />
-
 **4+ years frontend experience**  
 `Currently building full-stack products`
-
-<br /><br />
 
 <img
   src="./assets/github-contributions.svg"
@@ -28,18 +19,14 @@
 
 <sub>GITHUB ACTIVITY · BUILDING CONSISTENTLY</sub>
 
-<br /><br />
-
 [Portfolio ↗](https://portfolio-new-five-rust.vercel.app/)
 &nbsp;&nbsp;·&nbsp;&nbsp;
 [LinkedIn ↗](https://www.linkedin.com/in/arun-paul-dd/)
 &nbsp;&nbsp;·&nbsp;&nbsp;
 [Email ↗](mailto:arunpaulpvt@gmail.com)
 
-<br /><br />
-
+<br />
 `Frontend Engineering` · `Full-Stack Development` · `Product UI`
-
 <br />
 
 </div>
