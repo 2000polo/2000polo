@@ -1,56 +1,46 @@
 <div align="center">
 
-<table>
-<tr>
-<td width="55%" valign="middle" align="left">
+<br />
 
-<h1>ARUN PAUL</h1>
+# ARUN PAUL
 
-<h3>Frontend & Full-Stack Developer</h3>
+### Frontend & Full-Stack Developer
 
-<p>
-<strong>React</strong> · <strong>Next.js</strong> · <strong>TypeScript</strong> · <strong>MERN</strong>
-</p>
+`React` · `Next.js` · `TypeScript` · `MERN`
 
-<p>
-I build interfaces people enjoy using<br/>
-and systems that power them.
-</p>
+<br />
 
-<p>
-<strong>4+ years frontend experience</strong><br/>
-Building full-stack products with MERN
-</p>
+> I build interfaces people enjoy using  
+> and systems that power them.
 
-<p>
-<a href="https://portfolio-new-five-rust.vercel.app/">Portfolio ↗</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/arun-paul-dd/">LinkedIn ↗</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:arunpaulpvt@gmail.com">Email ↗</a>
-</p>
+<br />
 
-</td>
+**4+ years frontend experience**  
+`Currently building full-stack products`
 
-<td width="45%" valign="middle" align="center">
-
-<p>
-<sub>GITHUB ACTIVITY · 2026</sub>
-</p>
+<br /><br />
 
 <img
   src="./assets/github-contributions.svg"
   alt="GitHub contribution activity"
-  width="100%"
+  width="90%"
 />
 
-<br/>
+<sub>GITHUB ACTIVITY · BUILDING CONSISTENTLY</sub>
 
-<sub>Building consistently, one commit at a time.</sub>
+<br /><br />
 
-</td>
-</tr>
-</table>
+[Portfolio ↗](https://portfolio-new-five-rust.vercel.app/)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+[LinkedIn ↗](https://www.linkedin.com/in/arun-paul-dd/)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+[Email ↗](mailto:arunpaulpvt@gmail.com)
+
+<br /><br />
+
+`Frontend Engineering` · `Full-Stack Development` · `Product UI`
+
+<br />
 
 </div>
 
