@@ -1,26 +1,41 @@
-name: Update GitHub Contribution Graph
+name: Update GitHub Contributions
 
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
+
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-      - name: Generate contribution graph
-        uses: pipipi-dev/gcchart@v1
-        with:
-          github_user_name: 2000polo
-          github_token: ${{ github.token }}
-          outputs: |
-            contributions.svg?theme=dark&style=clean&cumulative=false
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
+      - name: Generate contribution graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node .github/generate-contributions.js
+
+      - name: Commit contribution graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/github-contributions.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to contribution graph"
+          else
+            git commit -m "chore: update contribution graph"
+            git push
+          fi
