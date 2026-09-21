@@ -13,7 +13,7 @@ and systems that power them.
 
 <br />
 
-[Portfolio]([YOUR_PORTFOLIO_URL](https://portfolio-new-five-rust.vercel.app/)) · [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/arun-paul-dd/)) · [Email](arunpaulpvt@gmail.com)
+[Portfolio](https://portfolio-new-five-rust.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/arun-paul-dd/) · [Email](arunpaulpvt@gmail.com)
 
 </div>
 
@@ -65,7 +65,7 @@ I've worked across **e-commerce, analytics and data-driven applications**, build
 
 ## `03` — CURRENTLY BUILDING
 
-<a href="[YOUR_PRODUCTION_URL](https://github.com/2000polo/service-marketplace)">
+<a href="https://github.com/2000polo/service-marketplace">
   <img src="YOUR_PROJECT_THUMBNAIL_URL" alt="Service Marketplace" width="100%" />
 </a>
 
@@ -84,7 +84,7 @@ Built from the ground up with a focus on real-world backend architecture and bus
 
 **Currently working on:** frontend architecture, provider workflows and production deployment.
 
-**[↗ Live Project](YOUR_PRODUCTION_URL)** · **[⌘ Source Code]([YOUR_GITHUB_REPO_URL](https://github.com/2000polo/service-marketplace))**
+**[↗ Live Project](YOUR_PRODUCTION_URL)** · **[⌘ Source Code](https://github.com/2000polo/service-marketplace)**
 
 ---
 
@@ -94,8 +94,8 @@ Built from the ground up with a focus on real-world backend architecture and bus
 <tr>
 <td width="50%" valign="top">
 
-<a href="[YOUR_PROJECT_URL](https://note-app-mk51.onrender.com/)">
-<img src="[YOUR_PROJECT_THUMBNAIL_URL](https://note-app-mk51.onrender.com)" alt="Noteapp" width="100%" />
+<a href="https://note-app-mk51.onrender.com/">
+<img src="[YOUR_PROJECT_THUMBNAIL_URL]" alt="Noteapp" width="100%" />
 </a>
 
 ### NoteApp
@@ -104,7 +104,7 @@ A short description focused on the **problem solved and interesting engineering 
 
 `React` `Next.js` `TypeScript`
 
-**[Live ↗]([YOUR_PROJECT_URL](https://note-app-mk51.onrender.com))** · **[Code ↗]([YOUR_REPO_URL](https://github.com/2000polo/note-app#-notesapp--modern-full-stack-note-management))**
+**[Live ↗](https://note-app-mk51.onrender.com)** · **[Code ↗](https://github.com/2000polo/note-app#-notesapp--modern-full-stack-note-management)**
 
 </td>
 </tr>
@@ -162,8 +162,8 @@ If you're building something interesting, let's talk.
 
 <br />
 
-[🌐 Portfolio]([YOUR_PORTFOLIO_URL](https://portfolio-new-five-rust.vercel.app/)) ·
-[💼 LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/arun-paul-dd/)) ·
+[🌐 Portfolio](https://portfolio-new-five-rust.vercel.app/) ·
+[💼 LinkedIn](https://www.linkedin.com/in/arun-paul-dd/) ·
 [🐙 GitHub](https://github.com/2000polo)
 
 <br /><br />
