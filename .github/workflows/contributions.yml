@@ -1,14 +1,10 @@
-name: Update GitHub Contributions
+name: Update GitHub Contribution Graph
 
 on:
   schedule:
     - cron: "0 0 * * *"
 
   workflow_dispatch:
-
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
@@ -18,15 +14,130 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate contribution graph
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node .github/generate-contributions.js
+      - name: Download contribution data
+        run: |
+          curl -L \
+            "https://github-contributions-api.jogruber.de/v4/2000polo?y=last" \
+            -o contributions.json
 
-      - name: Commit contribution graph
+      - name: Generate SVG
+        run: |
+          node <<'EOF'
+          const fs = require("fs");
+
+          const data = JSON.parse(
+            fs.readFileSync("contributions.json", "utf8")
+          );
+
+          const contributions = data.contributions;
+
+          const cellSize = 11;
+          const gap = 3;
+          const step = cellSize + gap;
+
+          const paddingX = 12;
+          const paddingY = 12;
+
+          const weeks = 53;
+
+          const width =
+            paddingX * 2 +
+            weeks * step;
+
+          const height =
+            paddingY * 2 +
+            7 * step;
+
+          const colors = {
+            0: "#161b22",
+            1: "#0e4429",
+            2: "#006d32",
+            3: "#26a641",
+            4: "#39d353"
+          };
+
+          const grouped = {};
+
+          for (const item of contributions) {
+            grouped[item.date] = item;
+          }
+
+          const dates = Object.keys(grouped)
+            .sort()
+            .slice(-371);
+
+          const cells = [];
+
+          dates.forEach((date, index) => {
+            const item = grouped[date];
+
+            const day = new Date(`${date}T00:00:00Z`);
+
+            const weekday = day.getUTCDay();
+
+            const week = Math.floor(index / 7);
+
+            const level = Math.min(
+              Number(item.level ?? 0),
+              4
+            );
+
+            const x = paddingX + week * step;
+            const y = paddingY + weekday * step;
+
+            cells.push(`
+              <rect
+                x="${x}"
+                y="${y}"
+                width="${cellSize}"
+                height="${cellSize}"
+                rx="2"
+                fill="${colors[level]}"
+              >
+                <title>
+                  ${date}: ${item.count ?? 0} contributions
+                </title>
+              </rect>
+            `);
+          });
+
+          const svg = `<?xml version="1.0" encoding="UTF-8"?>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 ${width} ${height}"
+            width="${width}"
+            height="${height}"
+            role="img"
+            aria-label="GitHub contribution graph for 2000polo"
+          >
+            <rect
+              width="100%"
+              height="100%"
+              rx="8"
+              fill="#010409"
+            />
+
+            ${cells.join("")}
+          </svg>`;
+
+          fs.mkdirSync("assets", {
+            recursive: true
+          });
+
+          fs.writeFileSync(
+            "assets/github-contributions.svg",
+            svg
+          );
+
+          console.log(
+            "Contribution graph generated successfully."
+          );
+          EOF
+
+      - name: Commit SVG
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -34,7 +145,7 @@ jobs:
           git add assets/github-contributions.svg
 
           if git diff --cached --quiet; then
-            echo "No changes to contribution graph"
+            echo "No changes"
           else
             git commit -m "chore: update contribution graph"
             git push
