@@ -1,16 +1,173 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**2000polo/2000polo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ARUN PAUL
 
-Here are some ideas to get you started:
+### Frontend & Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**React · Next.js · TypeScript · MERN**
+
+I build interfaces people enjoy using
+and systems that power them.
+
+**4+ years frontend experience** · **Currently building full-stack products**
+
+<br />
+
+[Portfolio]([YOUR_PORTFOLIO_URL](https://portfolio-new-five-rust.vercel.app/)) · [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/arun-paul-dd/)) · [Email](arunpaulpvt@gmail.com)
+
+</div>
+
+---
+
+## `01` — WHAT I BUILD
+
+I enjoy turning ideas, designs and complex requirements into **clean, responsive and production-ready products**.
+
+My strongest area is frontend engineering, while I'm actively expanding deeper into **Node.js, Express and MongoDB** through full-stack projects.
+
+### Frontend
+
+`React` `Next.js` `TypeScript` `JavaScript` `Vue`
+`Redux Toolkit` `Tailwind CSS` `Ant Design` `MUI`
+`React Hook Form` `GSAP` `Framer Motion`
+
+### Backend & Full Stack
+
+`Node.js` `Express` `MongoDB` `REST APIs` `JWT`
+`Prisma` `MySQL` `Firebase`
+
+### Engineering
+
+`API Integration` `Performance` `Accessibility`
+`Core Web Vitals` `Reusable Components` `Git` `Figma` `Cursor`
+
+---
+
+## `02` — EXPERIENCE
+
+### 4+ Years Building Production Frontends
+
+I've worked across **e-commerce, analytics and data-driven applications**, building interfaces that combine usability, performance and maintainable architecture.
+
+**Things I've worked on:**
+
+* E-commerce storefronts and UI systems
+* Data-heavy analytics dashboards
+* REST API integrations
+* Advanced search and filtering
+* Responsive design systems
+* Performance optimization
+* WCAG / accessibility improvements
+* Interactive UI and micro-interactions
+* Reusable React component architecture
+
+---
+
+## `03` — CURRENTLY BUILDING
+
+<a href="[YOUR_PRODUCTION_URL](https://github.com/2000polo/service-marketplace)">
+  <img src="YOUR_PROJECT_THUMBNAIL_URL" alt="Service Marketplace" width="100%" />
+</a>
+
+### 🛠️ Service Marketplace
+
+A full-stack marketplace where customers can **discover, book and review local service providers**.
+
+Built from the ground up with a focus on real-world backend architecture and business logic.
+
+`React` `Node.js` `Express` `MongoDB` `JWT`
+
+**Implemented**
+
+`Authentication` · `Services` · `Search & Filtering` · `Pagination`
+`Provider Availability` · `Bookings` · `Cancellation` · `Reviews`
+
+**Currently working on:** frontend architecture, provider workflows and production deployment.
+
+**[↗ Live Project](YOUR_PRODUCTION_URL)** · **[⌘ Source Code]([YOUR_GITHUB_REPO_URL](https://github.com/2000polo/service-marketplace))**
+
+---
+
+## `04` — SELECTED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="[YOUR_PROJECT_URL](https://note-app-mk51.onrender.com/)">
+<img src="[YOUR_PROJECT_THUMBNAIL_URL](https://note-app-mk51.onrender.com)" alt="Noteapp" width="100%" />
+</a>
+
+### NoteApp
+
+A short description focused on the **problem solved and interesting engineering work**.
+
+`React` `Next.js` `TypeScript`
+
+**[Live ↗]([YOUR_PROJECT_URL](https://note-app-mk51.onrender.com))** · **[Code ↗]([YOUR_REPO_URL](https://github.com/2000polo/note-app#-notesapp--modern-full-stack-note-management))**
+
+</td>
+</tr>
+</table>
+
+---
+
+## `05` — HOW I LIKE TO BUILD
+
+```text
+01  Understand the problem
+02  Design the experience
+03  Build reusable components
+04  Connect the APIs
+05  Optimize performance
+06  Ship → learn → improve
+```
+
+I care about the details that make a product feel finished:
+
+**UI quality · performance · accessibility · maintainability**
+
+---
+
+## `06` — GITHUB ACTIVITY
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=2000polo)](https://github.com/2000polo)
+
+</div>
+
+---
+
+## `07` — CURRENTLY EXPLORING
+
+```text
+→ Full-Stack Architecture
+→ Advanced Node.js / Express
+→ MongoDB & API Design
+→ Next.js
+→ AI-assisted Development
+→ GenAI Engineering
+```
+
+---
+
+## `08` — LET'S BUILD
+
+<div align="center">
+
+**Open to Frontend, React, Next.js and MERN opportunities.**
+
+If you're building something interesting, let's talk.
+
+<br />
+
+[🌐 Portfolio]([YOUR_PORTFOLIO_URL](https://portfolio-new-five-rust.vercel.app/)) ·
+[💼 LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/arun-paul-dd/)) ·
+[🐙 GitHub](https://github.com/2000polo)
+
+<br /><br />
+
+`Build useful things. Make them fast. Keep learning.`
+
+</div>
