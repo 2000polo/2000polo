@@ -1,29 +1,58 @@
+<div align="center">
+
 <table>
 <tr>
-<td width="55%" valign="middle">
+<td width="55%" valign="middle" align="left">
 
-# ARUN PAUL
+<h1>ARUN PAUL</h1>
 
-### Frontend & Full-Stack Developer
+<h3>Frontend & Full-Stack Developer</h3>
 
-**React · Next.js · TypeScript · MERN**
+<p>
+<strong>React</strong> · <strong>Next.js</strong> · <strong>TypeScript</strong> · <strong>MERN</strong>
+</p>
 
-I build interfaces people enjoy using  
+<p>
+I build interfaces people enjoy using<br/>
 and systems that power them.
+</p>
 
-**4+ years frontend experience** · **Currently building full-stack products**
+<p>
+<strong>4+ years frontend experience</strong><br/>
+Building full-stack products with MERN
+</p>
 
-<br />
-
-[Portfolio](https://portfolio-new-five-rust.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/arun-paul-dd/) · [Email](mailto:arunpaulpvt@gmail.com)
+<p>
+<a href="https://portfolio-new-five-rust.vercel.app/">Portfolio ↗</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/arun-paul-dd/">LinkedIn ↗</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:arunpaulpvt@gmail.com">Email ↗</a>
+</p>
 
 </td>
 
 <td width="45%" valign="middle" align="center">
-<img src="./assets/github-contributions.svg" alt="GitHub contribution graph" width="100%" />
+
+<p>
+<sub>GITHUB ACTIVITY · 2026</sub>
+</p>
+
+<img
+  src="./assets/github-contributions.svg"
+  alt="GitHub contribution activity"
+  width="100%"
+/>
+
+<br/>
+
+<sub>Building consistently, one commit at a time.</sub>
+
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
