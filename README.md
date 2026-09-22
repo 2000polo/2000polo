@@ -81,8 +81,8 @@ I've worked across **e-commerce, analytics and data-driven applications**, build
 
 ## `03` — CURRENTLY BUILDING
 
-<a href="https://github.com/2000polo/service-marketplace">
-  <img src="./assets/Gemini_Generated_Image_hgbmcyhgbmcyhgbm.png" alt="Service Marketplace" width="100%" />
+<a href="https://service-marketplace-blush.vercel.app/">
+  <img src="./assets/service-marketplace-thumbnail.png" alt="Service Marketplace" width="100%" />
 </a>
 
 ### 🛠️ Service Marketplace
@@ -100,7 +100,7 @@ Built from the ground up with a focus on real-world backend architecture and bus
 
 **Currently working on:** frontend architecture, provider workflows and production deployment.
 
-**[↗ Live Project](YOUR_PRODUCTION_URL)** · **[⌘ Source Code](https://github.com/2000polo/service-marketplace)**
+**[↗ Live Project](https://service-marketplace-blush.vercel.app/)** · **[⌘ Source Code](https://github.com/2000polo/service-marketplace)**
 
 ---
 
