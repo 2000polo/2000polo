@@ -1,10 +1,13 @@
 <div align="start">
-  
-<img
-  src="./assets/portfolio-thumbnail-bg-w.png"
-  alt="GitHub contribution activity"
-  width="100%"
-/>
+
+
+<a href="https://arundev-one.vercel.app/">
+  <img
+    src="./assets/portfolio-thumbnail-bg-w.png"
+    alt="GitHub contribution activity"
+    width="100%"
+  />
+</a>
 
 <img
   src="./assets/github-contributions.svg"
