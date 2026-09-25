@@ -1,7 +1,7 @@
 <div align="start">
   
 <img
-  src="./assets/portfolio-thumbnail.png"
+  src="./assets/portfolio-thumbnail-bg-w.png"
   alt="GitHub contribution activity"
   width="100%"
 />
