@@ -3,7 +3,7 @@
 <img
   src="./assets/portfolio-thumbnail.png"
   alt="GitHub contribution activity"
-  width="90%"
+  width="100%"
 />
 
 # ARUN PAUL
