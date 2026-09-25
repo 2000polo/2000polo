@@ -1,5 +1,11 @@
 <div align="start">
   
+<img
+  src="./assets/portfolio-thumbnail.png"
+  alt="GitHub contribution activity"
+  width="90%"
+/>
+
 # ARUN PAUL
 
 ### Frontend & Full-Stack Developer
