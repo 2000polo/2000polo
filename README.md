@@ -9,7 +9,7 @@
 <img
   src="./assets/github-contributions.svg"
   alt="GitHub contribution activity"
-  width="90%"
+  width="100%"
 />
 
 <sub>GITHUB ACTIVITY · BUILDING CONSISTENTLY</sub>
