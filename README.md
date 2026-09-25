@@ -6,19 +6,6 @@
   width="100%"
 />
 
-# ARUN PAUL
-
-### Frontend & Full-Stack Developer
-
-`React` · `Next.js` · `TypeScript` · `MERN`
-
-> I build interfaces people enjoy using  
-> and systems that power them.
-
-**4+ years frontend experience**  
-<br />
-`Currently building full-stack products`
-
 <img
   src="./assets/github-contributions.svg"
   alt="GitHub contribution activity"
